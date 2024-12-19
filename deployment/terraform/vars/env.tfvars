@@ -1,11 +1,11 @@
 # Your Production Google Cloud project id
-prod_project_id = "pd-e2e-genai-app-starter-pack"
+prod_project_id = "pd-e2e-genai-app"
 
 # Your Staging / Test Google Cloud project id
-staging_project_id = "st-e2e-genai-app-starter-pack"
+staging_project_id = "st-e2e-genai-app"
 
 # Your Google Cloud project ID that will be used to host the Cloud Build pipelines.
-cicd_runner_project_id = "cd-e2e-genai-app-starter-pack"
+cicd_runner_project_id = "cicd-e2e-genai-app"
 
 # Name of the host connection you created in Cloud Build
 host_connection_name = "1219-test-hc"
